@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "266017704455",
+    "project_id": "chat-app-df0e1",
+    "storage_bucket": "chat-app-df0e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266017704455:android:5fea4cb0f88b22533ef8a2",
+        "android_client_info": {
+          "package_name": "com.puspaltarafdar.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266017704455-osl8epjulbe9qg7iletohpk87d7iscg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzFPrPnjpANxTAgB2DtXhGrTyUWbQDsi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266017704455-osl8epjulbe9qg7iletohpk87d7iscg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
